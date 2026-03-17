@@ -18,6 +18,7 @@
     <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
     <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
     <link crossorigin href='https://connect.facebook.net' rel='preconnect'>
+    <meta name="google-site-verification" content="google7ab81e571573aaed.html" />
     <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2' rel='preload' type='font/woff2'>
     <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-SemiBold-9d9c1ae0fc78f67d82c4fc43987857f5b897d29b903701d1e97c2e207311d636.woff2' rel='preload' type='font/woff2'>
     <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Bold-e95979b74ebe06c1851ece294f8f7e9e6d3ad0d817d1968dcbfb26373f0b4de5.woff2' rel='preload' type='font/woff2'>
